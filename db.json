@@ -1,0 +1,44 @@
+{
+  "students": [
+    {
+      "id": "1",
+      "studname": "abhi",
+      "email": "abhi@gmail.com"
+    },
+    {
+      "id": "2",
+      "studname": "Deepali",
+      "email": "deepali@gmail.com"
+    },
+    {
+      "id": "3",
+      "studname": "Garima",
+      "email": "garima@gmail.com"
+    },
+    {
+      "id": "c91b",
+      "studname": "Jiyaaa",
+      "email": "jiyaa@gmail.com"
+    },
+    {
+      "id": "b54d",
+      "studname": "Kuhu",
+      "email": "kuhu@gmail.com"
+    },
+    {
+      "id": "e751",
+      "studname": "Preet",
+      "email": "preet@gmail.com"
+    },
+    {
+      "id": "1",
+      "studname": "anuu",
+      "email": "anuu@gmail.com"
+    },
+    {
+      "id": "e751",
+      "studname": "Preetii",
+      "email": "preetii@gmail.com"
+    }
+  ]
+}
